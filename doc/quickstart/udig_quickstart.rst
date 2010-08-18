@@ -46,7 +46,7 @@
  
 .. Writing Tip: 
   Project logos are stored here:
-    https://svn.osgeo.org/osgeo/livedvd/gisvm/trunk/doc/images/project_logos/
+    https://svn.osgeo.org/osgeo/livedvd/gisvm/branches/osgeolive_4/doc/images/project_logos/
   and accessed here:
     images/project_logos/logos-<application>.png
 
@@ -96,7 +96,7 @@ start uDig
   For images, use a scale of 50% from a 1024x768 display (preferred) or
   70% from a 800x600 display.
   Images should be stored here:
-    https://svn.osgeo.org/osgeo/livedvd/gisvm/trunk/doc/images/screenshots/1024x768/
+    https://svn.osgeo.org/osgeo/livedvd/gisvm/branches/osgeolive_4/doc/images/screenshots/1024x768/
   and accessed here:
     images/screenshots/1024x768/<application>_<screen_description>.png
 

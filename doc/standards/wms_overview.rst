@@ -14,7 +14,7 @@
 
 .. Writing Tip: 
   Project logos are stored here:
-    https://svn.osgeo.org/osgeo/livedvd/gisvm/trunk/doc/images/project_logos/
+    https://svn.osgeo.org/osgeo/livedvd/gisvm/branches/osgeolive_4/doc/images/project_logos/
   and accessed here:
     images/project_logos/<filename>
   A symbolic link to the images directory is created during the build process.
